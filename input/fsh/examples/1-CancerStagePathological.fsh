@@ -11,4 +11,4 @@ Usage: #example
 * type.coding[0].code = #Pathological
 * type.coding[0].display = "Pathological"
 /* To be updated*/
-/* * evidenceReference = Reference(Surgery-Example) */
+/* * evidenceReference = Reference(Surgery1-Example) */

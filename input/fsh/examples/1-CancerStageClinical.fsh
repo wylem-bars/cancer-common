@@ -11,4 +11,4 @@ Usage: #example
 * type.coding[0].code = #Clinical
 * type.coding[0].display = "Clinical"
 /* To be updated*/
-// * evidenceReference = Reference(Imaging-Example)
+// * evidenceReference = Reference(Imaging1-Example)
