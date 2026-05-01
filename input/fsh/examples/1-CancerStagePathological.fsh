@@ -1,8 +1,8 @@
-Instance: CancerStagePathological-Example
+Instance: CancerStagePathological1-Example
 InstanceOf: CancerStage
 Usage: #example
 
-* cancerConditionAtDiagnosisReference = Reference(CancerConditionAtDiagnosis-Example)
+* cancerConditionAtDiagnosisReference = Reference(CancerConditionAtDiagnosis1-Example)
 * classificationType.coding[0].code = #TNM
 * classificationType.coding[0].display = "Tumor Linphonode Metastasis"
 * value[+].id = "T2"
