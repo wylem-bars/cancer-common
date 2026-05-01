@@ -17,11 +17,8 @@ This first step illustrates the initial instantiation of cancer-related entities
 <div>
   <p></p>
 <figure>
-    <!-- {% include CancerDataEvolution1.svg %} -->
+    {% include CancerDataEvolution1.svg %}
     <figcaption><strong>Figure 1 Data evolution: Diagnosis + First Treatment (Date 0 - 4)</strong></figcaption>    
-    <img src="CancerDataEvolution1.svg" alt="Cancer Model" width="70%"/>
-    <figcaption><strong>Figure 1 Data evolution: Diagnosis + First Treatment (Date 0 - 4)</strong></figcaption>
-
 </figure>
   <p></p>
  </div>
